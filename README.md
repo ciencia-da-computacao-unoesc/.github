@@ -52,7 +52,22 @@ Para manter o histórico do repositório limpo e compreensível, adotamos a segu
 
 ---
 
+## 📄 Padrões de Documentação
 
+Para garantir que todos os projetos sejam bem documentados e compreensíveis, sugerimos os seguintes padrões na raiz de cada repositório ou pasta de projeto:
+
+| Documento | Conteúdo | Formato |
+| :--- | :--- | :--- |
+| **README.md** | Visão geral do projeto | Markdown |
+| **CHANGELOG.md**\* | Histórico de mudanças | Markdown |
+| **CONTRIBUTING.md**\* | Guia de contribuição | Markdown |
+| **API.md**\* | Documentação de APIs | Markdown / OpenAPI |
+| **MEMORIAL**\* | Relato do projeto / Trabalhos acadêmicos | LaTeX |
+| **LICENSE** | Licença do projeto | MIT / GPL / Apache |
+
+*\* Padrões opcionais conforme a complexidade e o contexto do projeto.*
+
+---
 
 ## 🤝 Como Contribuir
 
@@ -61,7 +76,7 @@ Todos os estudantes do curso de Ciência da Computação da Unoesc Maravilha sã
 1. Solicite acesso à organização falando com os responsáveis ou com os administradores atuais da organização.
 2. Navegue até o repositório da disciplina desejada.
 3. Crie uma pasta para o seu trabalho/projeto (ex: `/Trabalho-Final-NomeDoAluno`).
-4. Faça seus *commits* com descrições claras sobre o que o código faz.
+4. Faça seus *commits* com descrições claras sobre o que o código faz (utilizando as convenções acima).
 5. Siga as boas práticas de programação e mantenha o código limpo.
 
 ⚠️ **Importante:**
