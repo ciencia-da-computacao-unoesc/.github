@@ -33,6 +33,27 @@ Sugestão de categorias de repositórios:
 
 ---
 
+## 📝 Convenções de Commits
+
+Para manter o histórico do repositório limpo e compreensível, adotamos a seguinte padronização para as mensagens de commit:
+
+| Tipo | Quando Usar | Exemplo |
+| :--- | :--- | :--- |
+| **feat** | Nova Funcionalidade | `[NOME_APP] feat: Comentário` |
+| **fix** | Correção de BUG | `[NOME_APP] fix: Comentário` |
+| **update** | Atualização de funcionalidade | `[NOME_APP] update: Comentário` |
+| **refactor** | Refatoração sem mudar comportamento | `[NOME_APP] refactor: Comentário` |
+| **style** | Mudança de estilização | `[NOME_APP] style: Comentário` |
+| **docs** | Documentação | `[NOME_APP] docs: Comentário` |
+| **perf** | Melhorias de performance | `[NOME_APP] perf: Comentário` |
+| **test** | Testes | `[NOME_APP] test: Comentário` |
+| **chore** | Tarefa de Manutenção | `[NOME_APP] chore: Atualiza requirements` |
+| **db** | Mudanças no Banco de Dados | `[NOME_APP] db: Comentário` |
+
+---
+
+
+
 ## 🤝 Como Contribuir
 
 Todos os estudantes do curso de Ciência da Computação da Unoesc Maravilha são muito bem-vindos(as) a participar e colaborar!
