@@ -89,7 +89,7 @@ Todos os estudantes do curso de Ciência da Computação da Unoesc Maravilha sã
 ## 🔗 Links Úteis
 
 - [Site Oficial da Unoesc](https://www.unoesc.edu.br/)
-- [Portal de Ensino Unoesc / ACAFE](https://www.unoesc.edu.br/)
+- [Portal de Ensino Unoesc / ACAFE](https://acad.unoesc.edu.br/academico/login.jsp)
 - [Biblioteca Virtual da Unoesc](https://www.unoesc.edu.br/biblioteca/)
 
 ---
