@@ -10,6 +10,7 @@ Promover um ambiente inclusivo, acolhedor e profissional. Queremos que todos os 
 Para manter a harmonia na comunidade, incentivamos práticas baseadas em:
 * **Cordialidade**: Seja amigável e paciente com colegas de fases diferentes.
 * **Respeito mútuo**: Valorize a diversidade de opiniões, origens, identidades e níveis de conhecimento técnico.
+* **Respeito a Opiniões**: Respeite as opiniões e pontos de vista alheios; divergências técnicas ou conceituais fazem parte do aprendizado e cada membro tem o direito de se expressar sem ser desencorajado.
 * **Empatia**: Entenda que cada estudante possui seu próprio ritmo de aprendizado.
 * **Colaboração ativa**: Ajude a revisar códigos, responder dúvidas em *Issues* ou sugerir melhorias em *Pull Requests*.
 * **Alinhamento técnico**: Siga as convenções de commits, nomenclatura e documentação definidas no repositório principal.
