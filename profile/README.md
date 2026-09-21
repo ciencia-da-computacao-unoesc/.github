@@ -10,6 +10,7 @@ Esta organização foi criada para centralizar, compartilhar e preservar os cód
 
 O curso forma Bacharéis em Ciência da Computação com sólida base teórica e prática. Prepara profissionais para atuarem no planejamento, desenvolvimento de softwares, inteligência artificial, banco de dados, engenharia de software e inovação tecnológica.
 
+[PPC-Ciencia-da-Computacao](https://www.unoesc.edu.br/cursos/wp-content/uploads/sites/2/2025/09/PPC-Ciencia-da-Computacao.pdf)
 - **Instituição:** Unoesc
 - **Campus:** Maravilha - SC
 - **Duração:** 8 Semestres
